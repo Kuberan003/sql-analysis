@@ -10,10 +10,11 @@ SQL Data Analysis Projects
 - **Description:** Analyze Uber trips dataset to find total trips, total miles, average miles, top trips, and category-wise analysis.  
 - **Files:** `analysis.sql` + `uber.csv`
 
-### 2️⃣ Taxi Data Analysis
-- **Folder:** `Project2_Taxi_Data/`
-- **Description:** Analyze taxi trip data including driver performance, daily trends, and distance-based insights.  
-- **Files:** `analysis.sql` + `taxi.csv`
+### 1️⃣ Students Performance Analysis
+- **Folder:** `StudentsPerformance-SQL/`
+- **Description:** Analyze student performance data across subjects, test preparation, gender, and parental education.  
+- **Files:** `analysis.sql` + `StudentsPerformance.csv`
+
 
 3️⃣ Rideshare Stats Analysis
 - **Folder:** `Project3_Rideshare_Stats/`
@@ -44,9 +45,9 @@ sql-data-projects/
 ├── Project1_Uber_Trips/
 │   ├── analysis.sql
 │   └── uber.csv
-├── Project2_Taxi_Data/
-│   ├── analysis.sql
-│   └── taxi.csv
+├── Project2_StudentsPerformance-SQL/
+├── analysis.sql
+└── StudentsPerformance.csv
 ├── Project3_Rideshare_Stats/
 │   ├── analysis.sql
 │   └── rides.csv
